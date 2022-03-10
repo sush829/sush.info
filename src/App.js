@@ -1,6 +1,6 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-
+loader: { '.js': 'jsx' }
 
 const App = () => {
   return (
